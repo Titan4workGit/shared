@@ -1,1 +1,1 @@
-var mobileversion=1.5;
+var mobileversion="1.5";
