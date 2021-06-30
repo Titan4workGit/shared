@@ -1,0 +1,1 @@
+var mobileversion="1.6.0";
